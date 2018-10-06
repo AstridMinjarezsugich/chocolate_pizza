@@ -82,3 +82,16 @@ p {
   color: rgba(49, 49, 49, 0.925);
   text-indent: 15px;
 }
+
+.inline {
+  display: inline;
+}
+
+main div img {
+  margin-left: 600px;
+}
+
+main div {
+  margin-bottom: 20px;
+}
+
