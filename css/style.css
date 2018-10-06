@@ -1,5 +1,9 @@
+* {
+  font-family: sans-serif;
+}
+/* Head CSS */
 header {
-  width: 1000px;
+  width: 901px;
   margin: auto; 
 }
 
@@ -16,7 +20,7 @@ div ul li {
 }
 
 div ul {
-  margin-left:591px;
+  margin-left:487px;
 }
 
 header div h2 {
@@ -26,6 +30,7 @@ header div h2 {
 }
 
 header div h3 {
+  font-family: sans-serif;
   font-size: 8px;
   color: grey;
 }
@@ -54,3 +59,26 @@ div ul li:nth-child(6) {
   margin-right: 8px;
 }
 
+/* body css */
+
+main {
+  width: 901px;
+  margin: auto;
+}
+
+h1 {
+  font-size: 40px;
+  font-family: impact;
+}
+
+#posting {
+  color: lightgray;
+  font-size: 13px;
+  margin-top: 3px;
+}
+
+p {
+  font-family: Times New Roman;
+  color: rgba(49, 49, 49, 0.925);
+  text-indent: 15px;
+}
