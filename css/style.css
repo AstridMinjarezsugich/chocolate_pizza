@@ -1,0 +1,56 @@
+header {
+  width: 1000px;
+  margin: auto; 
+}
+
+header div {
+  display: inline-block;
+}
+
+#logo{
+  margin-right: 8px;
+}
+
+div ul li {
+  display: inline-block;
+}
+
+div ul {
+  margin-left:591px;
+}
+
+header div h2 {
+  font-family: 'Yellowtail', cursive;
+  font-size: 30px;
+
+}
+
+header div h3 {
+  font-size: 8px;
+  color: grey;
+}
+
+body {
+  width: 1000px;
+  margin: auto;
+}
+
+header hr {
+  height: 15px;
+  border: none;
+  background: repeating-linear-gradient(
+  45deg,
+  grey,
+  white 1px,
+  white 1px,
+  grey 5px
+);
+margin-top:30px;
+margin-bottom:50px;
+
+}
+
+div ul li:nth-child(6) {
+  margin-right: 8px;
+}
+
